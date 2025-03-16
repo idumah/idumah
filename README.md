@@ -1,4 +1,5 @@
 ## Hi there 👋
+Hello, world! I'm the student of Saint Petersberg Polytechnic University, studying on Cybersecurity institute. So I'm interested a lot in computers and how they work on different levels. So on our lessons we learning all from semi-conductors to Python app development.
 
 <!--
 **idumah/idumah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
